@@ -470,6 +470,8 @@ Enterprise-grade authentication and authorization
 - **JAINISH JINDAL**
 - **BHUMIKA**
 - **SNEHA**
+- **NIDHI**
+- **JASMINE**
 🏆 Project Title
 Enterprise AI Assistant using RAG, MCP & Microsoft Azure
 Built with
